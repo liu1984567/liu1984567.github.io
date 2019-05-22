@@ -28,7 +28,7 @@ Engadget 中国版       <http://cn.engadget.com/rss.xml>
 科学公园（分析各种误区）<http://www.scipark.net/feed/>
 泛科学（台湾的科普资讯）<https://pansci.tw/feed>
 matrix67（数学爱好者） <https://www.matrix67.com/blog/feed.asp>
-**战隼的学习探索（效率生活）**<http://www.read.org.cn/feed>
+**战隼的学习探索（效率生活）** <http://www.read.org.cn/feed>
 
 ## 深度阅读
 科学网博客RSS         <http://www.sciencenet.cn/xml/blog.aspx?di=20>
