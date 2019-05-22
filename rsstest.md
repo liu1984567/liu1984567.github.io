@@ -1,7 +1,7 @@
----
+﻿---
 layout: page
-title: rss sources
-permalink: /rssfeeds/
+title: rsstest
+permalink: /rsstest/
 ---
 [TOC]
 

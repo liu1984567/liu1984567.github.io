@@ -1,6 +1,6 @@
 ---
 layout: page
-title: rss sources
+title: rsstest2
 permalink: /rsstest2/
 ---
 [TOC]
