@@ -1,7 +1,7 @@
 ---
 layout: page
 title: rsstest2
-permalink: /rsstest2/
+permalink: /rsstesttwo/
 ---
 [TOC]
 make from window text

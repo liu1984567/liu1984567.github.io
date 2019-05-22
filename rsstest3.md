@@ -1,7 +1,7 @@
 ---
 layout: page
 title: rsstest3
-permalink: /rsstest3/
+permalink: /rsstestthree/
 ---
 
 ## News
