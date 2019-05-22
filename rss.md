@@ -7,7 +7,7 @@ permalink: /rssfeeds/
 
 ## 新闻资讯类
 每日鲜果精选  <http://xianguo.com/service/dailyshare>
-凤凰网   <http://feed43.com/1726484643045386.xml>
+凤凰网        <http://feed43.com/1726484643045386.xml>
 联合早报国际  <http://zaobao.feedsportal.com/c/34003/f/616931/index.rss>
 联合早报国内  <http://zaobao.feedsportal.com/c/34003/f/616930/index.rss>
 科学网头条    <http://www.sciencenet.cn/xml/news.aspx?di=0>
