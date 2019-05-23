@@ -23,8 +23,8 @@ lint 2 <http://google.com>
 list 1
 * list item 1
 * list item 2
-* baidu <www.baidu.com>
-* google <www.google.com>
+* baidu   www.baidu.com
+* google  www.google.com
 
 list 1
 1. list item 1
