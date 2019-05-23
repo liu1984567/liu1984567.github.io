@@ -18,6 +18,7 @@ permalink: /rssfeeds/
 * 36氪                [http://feed.36kr.com/c/33346/f/566026/index.rss](http://feed.36kr.com/c/33346/f/566026/index.rss)
 * 微软亚洲研究院      [http://blog.sina.com.cn/rss/1286528122.xml](http://blog.sina.com.cn/rss/1286528122.xml)
 * 小众软件            [http://feed.appinn.com/](http://feed.appinn.com/)
+
 ## 科普类
 * 知乎每日精选           [https://www.zhihu.com/rss](https://www.zhihu.com/rss)
 * 知乎日报                [http://feeds.feedburner.com/zhihu-daily](http://feeds.feedburner.com/zhihu-daily)
